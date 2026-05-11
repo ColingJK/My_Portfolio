@@ -33,7 +33,7 @@ export const siteConfig = {
 
   // ---- Hero Section ----
   hero: {
-    greeting: 'Hey, I\'m',
+    greeting: 'Hello, I\'m',
     terminalLines: [
       '$ whoami',
       'cybersec-intern',
