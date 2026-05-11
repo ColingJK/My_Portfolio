@@ -26,8 +26,8 @@ import type { Project } from './types';
 
 export const siteConfig = {
   // ---- Personal Info ----
-  name: 'Your Name Here',
-  title: 'Cybersecurity Intern @ ITE',
+  name: 'Colin J',
+  title: 'Cybersecurity Student @ ITE',
   tagline: 'Learning. Building. Breaking. Fixing.',
   bio: 'ITE student and aspiring cybersecurity professional building hands-on skills in networking, security, and lab environments.',
 
