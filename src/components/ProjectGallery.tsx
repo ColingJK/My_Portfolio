@@ -41,7 +41,7 @@ export default function ProjectGallery() {
 
         {siteConfig.projectGallery.items.length === 0 && (
           <div className="text-center py-12 text-gray-500 font-mono">
-            <p>Edit projectGallery.items in src/lib/site-config.ts to add projects</p>
+            <p>TEST TESTINg</p>
           </div>
         )}
       </div>
