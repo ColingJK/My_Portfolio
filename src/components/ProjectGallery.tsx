@@ -41,7 +41,7 @@ export default function ProjectGallery() {
 
         {siteConfig.projectGallery.items.length === 0 && (
           <div className="text-center py-12 text-gray-500 font-mono">
-            <p>TEST TESTINg</p>
+            <p>TEST TESTING</p>
           </div>
         )}
       </div>
