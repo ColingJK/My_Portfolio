@@ -61,7 +61,7 @@ export const siteConfig = {
     subtitle: 'Project work and demonstrations.',
     items: [
       {
-        title: 'Project 1',
+        title: 'Raspberry Pi 3 (14)',
         image: 'https://images.pexels.com/photos/1378090/pexels-photo-1378090.jpeg?auto=compress&cs=tinysrgb&w=600',
         description: 'Add your project description here. Edit this in src/lib/site-config.ts',
       },
