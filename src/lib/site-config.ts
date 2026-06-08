@@ -62,7 +62,7 @@ export const siteConfig = {
     items: [
       {
         title: 'Raspberry Pi 3 (14)',
-        image: 'https://images.pexels.com/photos/1378090/pexels-photo-1378090.jpeg?auto=compress&cs=tinysrgb&w=600',
+        image: 'https://ibb.co/RTFWnR9g',
         description: 'Add your project description here. Edit this in src/lib/site-config.ts',
       },
       {
